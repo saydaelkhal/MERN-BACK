@@ -1,0 +1,1 @@
+Diva Hustle is a mern web application dedicated for women where users can creat update delete and read posts / insert comments / like posts/ register and login / and it has also an admin registration portion
