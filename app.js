@@ -34,7 +34,7 @@ app.use(rateLimiting({
 
 // Cors Policy
 app.use(cors({
-  origin: "http://localhost:3000"
+  origin: "https://divahustle.onrender.com"
 }));
 
 // Routes
